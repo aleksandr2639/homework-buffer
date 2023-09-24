@@ -1,1 +1,1 @@
-import './js/ArrayBuffer'
+import './js/ArrayBuffer';
